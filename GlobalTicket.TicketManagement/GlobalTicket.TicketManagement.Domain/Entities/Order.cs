@@ -1,7 +1,5 @@
 ﻿using GlobalTicket.TicketManagement.Domain.Common;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace GlobalTicket.TicketManagement.Domain.Entities
 {
