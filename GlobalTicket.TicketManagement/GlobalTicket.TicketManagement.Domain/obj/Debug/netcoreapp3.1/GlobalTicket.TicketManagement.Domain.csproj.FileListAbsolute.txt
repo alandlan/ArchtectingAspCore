@@ -1,0 +1,10 @@
+D:\PluralSight\ArchtectingAspCore\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Domain\bin\Debug\netcoreapp3.1\GlobalTicket.TicketManagement.Domain.deps.json
+D:\PluralSight\ArchtectingAspCore\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Domain\bin\Debug\netcoreapp3.1\GlobalTicket.TicketManagement.Domain.dll
+D:\PluralSight\ArchtectingAspCore\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Domain\bin\Debug\netcoreapp3.1\GlobalTicket.TicketManagement.Domain.pdb
+D:\PluralSight\ArchtectingAspCore\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Domain\obj\Debug\netcoreapp3.1\GlobalTicket.TicketManagement.Domain.csproj.AssemblyReference.cache
+D:\PluralSight\ArchtectingAspCore\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Domain\obj\Debug\netcoreapp3.1\GlobalTicket.TicketManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PluralSight\ArchtectingAspCore\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Domain\obj\Debug\netcoreapp3.1\GlobalTicket.TicketManagement.Domain.AssemblyInfoInputs.cache
+D:\PluralSight\ArchtectingAspCore\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Domain\obj\Debug\netcoreapp3.1\GlobalTicket.TicketManagement.Domain.AssemblyInfo.cs
+D:\PluralSight\ArchtectingAspCore\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Domain\obj\Debug\netcoreapp3.1\GlobalTicket.TicketManagement.Domain.csproj.CoreCompileInputs.cache
+D:\PluralSight\ArchtectingAspCore\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Domain\obj\Debug\netcoreapp3.1\GlobalTicket.TicketManagement.Domain.dll
+D:\PluralSight\ArchtectingAspCore\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Domain\obj\Debug\netcoreapp3.1\GlobalTicket.TicketManagement.Domain.pdb

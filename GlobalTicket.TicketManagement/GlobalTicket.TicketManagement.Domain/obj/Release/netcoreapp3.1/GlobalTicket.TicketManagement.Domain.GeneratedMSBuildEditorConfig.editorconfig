@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = GlobalTicket.TicketManagement.Domain
+build_property.ProjectDir = D:\PluralSight\ArchtectingAspCore\GlobalTicket.TicketManagement\GlobalTicket.TicketManagement.Domain\
